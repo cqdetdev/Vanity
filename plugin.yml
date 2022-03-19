@@ -1,0 +1,11 @@
+---
+name: Vanity
+description: Vanity Core
+version: 1.0.0
+main: Vanity\Loader
+api: [4.0.0]
+permissions:
+    particles:
+        description: Allows for use of particles
+    tags:
+        description: Allows for use of tags
